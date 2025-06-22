@@ -1,4 +1,4 @@
-const addon = require('../build/Release/csv_parser');
+const addon = require('./build/Release/csv_parser');
 
 /**
  * High-performance CSV parser using native C++ implementation

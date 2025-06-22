@@ -1,13 +1,13 @@
 
 {
   "name": "fast-csv-parser-native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "High-performance CSV parser using N-API and C++",
   "main": "index.js",
   "scripts": {
     "build": "node-gyp rebuild",
     "install": "node-gyp rebuild",
-    "test": "node ./src/test.js"
+    "test": "node ./test/test.js"
   },
   "keywords": ["csv", "parser", "native", "napi", "performance"],
   "author": "Nazar Chuba",

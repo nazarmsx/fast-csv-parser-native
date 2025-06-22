@@ -1,4 +1,4 @@
-const { FastCSVParser, parse, parseToObjects } = require('./index');
+const { FastCSVParser, parse, parseToObjects } = require('../index');
 
 // Test data
 const csvData = `name,age,city
