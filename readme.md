@@ -2,6 +2,8 @@
 
 A high-performance CSV parser for Node.js that uses N-API and C++ to offload parsing work from JavaScript to native code.
 
+Written with assistance of Claude Sonnet 4 to explore how it well it works, so please use it carefully.
+
 ## Features
 
 - **High Performance**: Native C++ implementation for maximum speed

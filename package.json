@@ -1,7 +1,7 @@
 
 {
   "name": "fast-csv-parser-native",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "High-performance CSV parser using N-API and C++",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,9 @@
   "gypfile": true,
   "engines": {
     "node": ">=16.0.0"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/nazarmsx/fast-csv-parser-native"
   }
 }
